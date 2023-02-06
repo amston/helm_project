@@ -3,7 +3,7 @@ entries:
   hashgenerator:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-02-06T18:50:55.933849+02:00"
+    created: "2023-02-06T19:31:48.629671+02:00"
     description: A Helm chart for Kubernetes
     digest: f23ebe6fd0e1ba343839134bb77046881ffea55540b8396bccf45011b58cca47
     name: hashgenerator
@@ -11,4 +11,4 @@ entries:
     urls:
     - https://github.com/amston/helm_project.git/hashgenerator-0.1.0.tgz
     version: 0.1.0
-generated: "2023-02-06T18:50:55.932445+02:00"
+generated: "2023-02-06T19:31:48.628088+02:00"
